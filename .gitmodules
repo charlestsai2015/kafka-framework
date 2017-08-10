@@ -1,0 +1,3 @@
+[submodule "librdkafka"]
+	path = librdkafka
+	url = git@github.com:charlestsai2015/librdkafka.git
